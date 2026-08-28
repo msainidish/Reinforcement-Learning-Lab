@@ -1,0 +1,25 @@
+POLICY EVALUATION
+----------------------------------------
+Iteration: 1  Maximum Change: 19.0 Not converged
+Iteration: 2  Maximum Change: 17.1 Not converged
+Iteration: 3  Maximum Change: 15.39 Not converged
+Iteration: 4  Maximum Change: 13.851 Not converged
+Iteration: 5  Maximum Change: 0.0 Converged
+
+Final Values:
+S1 = 11.141
+S2 = 13.49
+S3 = 16.1
+S4 = 19.0
+S5 = 10
+
+
+VALUE ITERATION
+----------------------------------------
+
+Optimal Policy:
+S1 -> Right  Value = 11.141
+S2 -> Right  Value = 13.49
+S3 -> Right  Value = 16.1
+S4 -> Right  Value = 19.0
+S5 -> Goal  Value = 10
